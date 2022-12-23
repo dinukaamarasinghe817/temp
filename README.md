@@ -14,3 +14,12 @@ public function customer($user = 'customer'){
                 $this->view('okey/llike ');
             }
         }
+
+public function distributor(){
+    ;lskf;alj
+    asdf;laksjdf
+    asdf;lkjas;ldfj
+    asfdlasjdf
+    aj;sldkja
+    sodfa;sjdf
+}
