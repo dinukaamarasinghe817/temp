@@ -6,5 +6,4 @@ public function customer($user = 'customer'){
                 $men->view('signin/users', $data);
             }else{
                 $this->view('home/not ');
-            }
         }
