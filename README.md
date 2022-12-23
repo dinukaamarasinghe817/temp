@@ -1,3 +1,3 @@
 # temp
 
-this is actually a temportary file
+this is a temportary file
