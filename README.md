@@ -23,3 +23,10 @@ public function distributor(){
     aj;sldkja
     sodfa;sjdf
 }
+
+public funtion customer(){
+    lsdjf a;sj
+    asdf;ajl;f
+    af;sdfj ap
+    as;ldjfaeoeuofj
+}
